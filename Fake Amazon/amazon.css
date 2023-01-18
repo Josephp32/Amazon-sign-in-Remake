@@ -1,0 +1,78 @@
+body{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 150px;
+}
+
+.help{
+    padding-left: 10%;
+}
+
+.box{
+    border: 3px solid #333;
+    padding: 1%;
+    width: 360px;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    padding-right: 0%;
+    align-content: center;
+}
+
+
+.password{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 0%;
+    padding-right: 10%;
+}
+
+button{
+    width: 90%;
+    margin-top: 10px;
+    height: 30px;
+}
+
+.button2{
+    justify-content: center;
+    margin-left: 5%;
+   margin-bottom: 40px;
+   background-color: gray;
+}
+
+.button1{
+    background-color: rgb(225, 167, 22);
+}
+
+
+input{
+    width: 88%;
+    height: 30px;
+}
+
+
+
+
+.CPH{
+    padding-left: 2%;
+}
+
+.below{
+    width: 360px;
+    justify-content: center;
+    align-content: center;
+
+}
+
+.rights{
+    border-top: solid #333;
+    padding-left: 10%;
+    padding-top: 40px;
+}
+
+.credit{
+    display: flex;
+    justify-content: center;
+}
